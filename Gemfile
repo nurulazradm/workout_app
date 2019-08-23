@@ -6,6 +6,7 @@ gem 'rails', '4.2.6'
 gem 'bootstrap-sass', '~> 3.3'
 gem 'autoprefixer-rails', '~> 5.2'
 gem 'devise', '~> 3.5'
+gem 'nokogiri', '>= 1.10.4'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
