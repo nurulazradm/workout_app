@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.6'
+gem 'rails', '4.2.11.1'
 gem 'bootstrap-sass', '~> 3.3'
 gem 'autoprefixer-rails', '~> 5.2'
 gem 'devise', '~> 3.5'
