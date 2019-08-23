@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.11.1'
 gem 'bootstrap-sass', '~> 3.3'
 gem 'autoprefixer-rails', '~> 5.2'
-gem 'devise', '~> 3.5'
+gem 'devise', '>= 4.6.0'
 gem 'nokogiri', '>= 1.10.4'
 
 # Use sqlite3 as the database for Active Record
